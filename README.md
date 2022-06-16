@@ -28,4 +28,4 @@ Finally, we created a new DataFrame that has the scaled data.  We used this scal
 
 ## Summary
 
-Through our unsupervised machine learning analysis, we demonstrated cryptocurrencies can be clusteredin groups. While there are differences between all cryptocurrencies, there are definitive categorizations by our finding. We not only have found clustering patterns, but also identified outliers. Our finding is useful to help a business venture to further explore the world of cryptocurrencies and potiential investments. 
+Through our unsupervised machine learning analysis, we demonstrated cryptocurrencies can be clustered in groups. While there are differences between all cryptocurrencies, there are definitive categorizations by our finding. We not only have found clustering patterns, but also identified outliers. Our finding is useful to help a business venture to further explore the world of cryptocurrencies and potiential investments. 
